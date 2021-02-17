@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src="https://i.gyazo.com/f054a7eac3c267a2b3debb01d7c4e48c.gif" width=250><br>
+<img src="https://i.gyazo.com/8446dc0a8660ea0558a386f96f64d331.gif" width=250><br>
 
 GIF created with [Gyazo](http://www.gyazo.com).
 
